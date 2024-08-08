@@ -1,0 +1,11 @@
+{
+  "name": "@santest/monorepo",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@9.6.0",
+  "description": "Next generation testing framework powered by Vite",
+  "engines": {
+    "node": "^18.0.0 || >=20.0.0"
+  }
+}
